@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpsgeeksquad.readthedocs.io/en/latest/
