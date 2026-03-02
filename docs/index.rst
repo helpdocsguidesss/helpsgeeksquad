@@ -1,4 +1,4 @@
-  How to Book a Geek Squad Appointment for Expert Tech Support and Fast Device Repair Services
+How to Book a Geek Squad Appointment for Expert Tech Support and Fast Device Repair Services
 =============================================================================================
 
 
